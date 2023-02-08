@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref", "ref.csproj", "{23C88797-275E-4078-B00B-FDE152A5D4B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ref_oop", "..\ref_oop\ref_oop.csproj", "{008DE299-A189-45AB-9F16-F7C56C785E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_oop_2", "..\ref_oop_2\ref_oop_2.csproj", "{16B47CBE-2FC5-4513-AF1F-EF65249002ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C88797-275E-4078-B00B-FDE152A5D4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C88797-275E-4078-B00B-FDE152A5D4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C88797-275E-4078-B00B-FDE152A5D4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C88797-275E-4078-B00B-FDE152A5D4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008DE299-A189-45AB-9F16-F7C56C785E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008DE299-A189-45AB-9F16-F7C56C785E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008DE299-A189-45AB-9F16-F7C56C785E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008DE299-A189-45AB-9F16-F7C56C785E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B47CBE-2FC5-4513-AF1F-EF65249002ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B47CBE-2FC5-4513-AF1F-EF65249002ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B47CBE-2FC5-4513-AF1F-EF65249002ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B47CBE-2FC5-4513-AF1F-EF65249002ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBCF49A-E3CF-4A37-9E79-1BDDCA1510F8}
+	EndGlobalSection
+EndGlobal
